@@ -15,7 +15,7 @@ Welcome to the platform. These docs cover everything from your first project to 
 test
 ***
 
-{% include "../.gitbook/includes/item-1.md" %}
+{% include ".gitbook/includes/item-1.md" %}
 
 ## Where to start
 
