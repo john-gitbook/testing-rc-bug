@@ -15,11 +15,11 @@ Welcome to the platform. These docs cover everything from your first project to 
 
 ***
 
-{% include ".gitbook/includes/item-1.md" %}
+{% include ".gitbook/reusable-content/item-1.md" %}
 
 ## Where to start
 
-{% include ".gitbook/includes/untitled.md" %}
+{% include ".gitbook/reusable-content/untitled.md" %}
 
 We're glad you're here! Whether you're shipping your first project or scaling up a whole team, we've built these docs to be clear, friendly, and easy to search — and if you ever get stuck, the Assistant above is always happy to help.
 
