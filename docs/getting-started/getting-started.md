@@ -7,7 +7,7 @@ icon: rocket-launch
 
 New to the platform? These pages walk you through everything you need to know to ship something real.
 
-{% include "../../.gitbook/includes/item-2.md" %}
+{% include "../reusable-content/.gitbook/includes/item-2.md" %}
 
 ## What you'll need
 
