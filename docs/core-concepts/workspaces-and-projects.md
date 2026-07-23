@@ -5,7 +5,11 @@ icon: sitemap
 
 # Workspaces and projects
 
+{% include "../reusable-content/.gitbook/includes/item-1.md" %}
+
 Workspaces and projects are the two containers that organise everything on the platform. Understanding the relationship between them makes the rest of the product much easier to navigate.
+
+{% include "../reusable-content/.gitbook/includes/item-2.md" %}
 
 ## The hierarchy
 
