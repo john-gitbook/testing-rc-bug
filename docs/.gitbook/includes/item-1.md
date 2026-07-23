@@ -9,5 +9,3 @@ title: item 1
 {% endhint %}
 
 This is a test paragraph added to verify that changes to this reusable block show up correctly wherever it's included. Test test 123
-
-More testing.
