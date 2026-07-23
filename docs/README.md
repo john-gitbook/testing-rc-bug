@@ -19,7 +19,7 @@ Welcome to the platform. These docs cover everything from your first project to 
 
 ## Where to start
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="https://app.gitbook.com/s/XWZyW7amlDLIVbzUFUE3/getting-started">Getting Started</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="https://app.gitbook.com/s/XWZyW7amlDLIVbzUFUE3/core-concepts">Core concepts</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="https://app.gitbook.com/s/XWZyW7amlDLIVbzUFUE3/guides">Guides</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="https://app.gitbook.com/s/XWZyW7amlDLIVbzUFUE3/reference">Reference</a></td></tr></tbody></table>
+{% include ".gitbook/includes/untitled.md" %}
 
 We're glad you're here! Whether you're shipping your first project or scaling up a whole team, we've built these docs to be clear, friendly, and easy to search — and if you ever get stuck, the Assistant above is always happy to help.
 
