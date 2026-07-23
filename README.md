@@ -15,11 +15,7 @@ Welcome to the platform. These docs cover everything from your first project to 
 
 ***
 
-{% hint style="success" icon="sparkles" %}
-**New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
-
-<a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
-{% endhint %}
+{% include ".gitbook/includes/item-1.md" %}
 
 ## Where to start
 
